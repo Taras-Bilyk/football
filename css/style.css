@@ -87,7 +87,7 @@ body {
 }
 
 .menu{
-    max-width: 30%;
+    width: 300px;
 }
 .content{
     max-width: 65%;
